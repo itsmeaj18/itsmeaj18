@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ajinkya Itale</h1>
 <h3 align="center">I'm a Certified Data Scientist passionate about solving real-world problems using machine learning and analytics.</h3>
 
-<img align="right" alt="coding" width="400" src="[https://www.google.com/url?sa=i&url=https%3A%2F%2Fabhinav-iitkgp2.medium.com%2Fhow-to-start-your-career-in-data-science-8d93627c0732&psig=AOvVaw0gPn-1YEFMr2UFw5lD8yBp&ust=1750262564993000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDDj7rq-I0DFQAAAAAdAAAAABAV](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Urc28sbnORGOW5oyohQ06g.gif)">
+<img align="right" alt="coding" width="400" src="[[https://www.google.com/url?sa=i&url=https%3A%2F%2Fabhinav-iitkgp2.medium.com%2Fhow-to-start-your-career-in-data-science-8d93627c0732&psig=AOvVaw0gPn-1YEFMr2UFw5lD8yBp&ust=1750262564993000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCMDDj7rq-I0DFQAAAAAdAAAAABAV](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Urc28sbnORGOW5oyohQ06g.gif)](https://github.com/itsmeaj18/itsmeaj18/commit/f12b1588efed2c40a5d25d78a88fda0e952c60ac)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeaj18&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeaj18" /> </p>
 
