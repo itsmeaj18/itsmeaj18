@@ -6,8 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itsmeaj18&label=Profile%20views&color=0e75b6&style=flat" alt="itsmeaj18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=itsmeaj18" alt="itsmeaj18" /></a> </p>
-
 - 🔭 I’m currently working on **improving my skills in machine learning, model deployment, and Data Analysis..**
 
 - 🌱 I’m currently learning **- ML model deployment (Streamlit, FastAPI, Docker), MLOps practices, Advanced data visualization and dashboarding**
