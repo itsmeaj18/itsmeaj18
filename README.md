@@ -1,4 +1,4 @@
-![logo](https://github.com/Ashutosh-PMishra/Ashutosh-PMishra/blob/main/Github%20Banner.png)
+![logo](https://github.com/itsmeaj18/itsmeaj18/commit/ce99a182ad50349079e532cc57b2ecf0af672a7b)
 <h1 align="center">Hi 👋, I'm Ajinkya Itale</h1>
 <h3 align="center">I'm a Certified Data Scientist passionate about solving real-world problems using machine learning and analytics.</h3>
 
